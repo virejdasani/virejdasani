@@ -3,18 +3,18 @@
 ## Games I've made:
 (Click the last link to go the my website where you can download these)
 
-### Mobile:
+### Mobile:📱
 (Published on the Google PlayStore)
 - ELECTRIFIED
 
-### Mac, Windows, Linux:
+### Mac, Windows, Linux:💻
 - ELEVATE
 
-### Windows, Linux
+### Windows, Linux:💻
 - PONG
 
 
-## Apps I've made:
+## Apps I've made:📱
 (All of theses are published on the Google PlayStore)
 
 - CONVERT TO EVERYTHING
