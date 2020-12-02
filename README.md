@@ -4,6 +4,7 @@
 (Click the last link to go the my website where you can download these)
 
 ### Mobile:
+(Published on the Google PlayStore)
 - ELECTRIFIED
 
 ### Mac, Windows, Linux:
