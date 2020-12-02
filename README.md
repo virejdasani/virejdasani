@@ -3,7 +3,8 @@
 <!--Hiding languages not written by me (They are auto generated in unity) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virejdasani&langs_count=6&hide=Mathematica,ShaderLab,GLSL,HLSL)
 
-- My most used language is not, in fact, C#. It shows this because Unity generates a huge number of C# files on its own so the developer doesn't have to...
+- My most used language is not, in fact, C#. It shows this because Unity generates a huge number of C# files on its own so the developer doesn't have to.
+- So, the most common file type in my repositories is C#, even though I never wrote those...
 
 
 # About Me:
