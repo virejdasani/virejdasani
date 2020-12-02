@@ -1,4 +1,7 @@
-# ME:
+![Github stats](https://github-readme-stats.vercel.app/api?username=virejdasani)
+
+
+# About Me:
 
 ## Games I've made:
 (Click the last link to go the my website where you can download these)
@@ -24,9 +27,12 @@
 
 
 ## Some of my most popular Open Source projects:
-(On my Github page)
 - FizzBuzz-EVERYTHING - A Github repo with the FizzBuzz program in a whole lotta languages!
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virejdasani&repo=FizzBuzz-EVERYTHING)
+
 - Alexis - Your Personal Robot Butler (Formerly: Jarvis) 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virejdasani&repo=alexis)
+
 
 
 ## Programming languages I know:
@@ -59,6 +65,12 @@ https://play.google.com/store/apps/developer?id=Virej+Dasani
 
 ## My YouTube channel:
 https://www.youtube.com/channel/UCRzS48bskynAxoI38BFypfQ/featured
+
+## Dev
+https://dev.to/virejdasani
+
+## Instagram
+https://www.instagram.com/_virej_/
 
 # Website
 https://sites.google.com/view/virejdasani/home
