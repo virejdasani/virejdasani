@@ -1,5 +1,9 @@
 # My stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=virejdasani)
+![Github stats](https://github-readme-stats.vercel.app/api?username=virejdasani&count_private=true&show_icons=true&theme=radical)
+<!--Hiding languages not written by me (They are auto generated in unity) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virejdasani&langs_count=6&hide=Mathematica,ShaderLab,GLSL,HLSL)
+
+- My most used language is not, in fact, C#. It shows this because Unity generates a huge number of C# files on its own so the developer doesn't have to...
 
 
 # About Me:
