@@ -4,31 +4,28 @@
 (Click the last link to go the my website where you can download these)
 
 ### Mobile:
-
-ELECTRIFIED
+- ELECTRIFIED
 
 ### Mac, Windows, Linux:
-
-ELEVATE
+- ELEVATE
 
 ### Windows, Linux
-
-PONG
+- PONG
 
 
 ## Apps I've made:
 (All of theses are published on the Google PlayStore)
 
-CONVERT TO EVERYTHING
-Virtual Dice Roller
-Bill/Check Splitter
-Voice to text converter
+- CONVERT TO EVERYTHING
+- Virtual Dice Roller
+- Bill/Check Splitter
+- Voice to text converter
 
 
-## OpenSource:
+## Some of my most popular Open Source projects:
 (On my Github page)
-FizzBuzz-EVERYTHING - A Github repo with the FizzBuzz program in a whole lotta languages!
-Alexis - Your Personal Robot Butler (Formerly: Jarvis) 
+- FizzBuzz-EVERYTHING - A Github repo with the FizzBuzz program in a whole lotta languages!
+- Alexis - Your Personal Robot Butler (Formerly: Jarvis) 
 
 
 ## Programming languages I know:
