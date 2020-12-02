@@ -30,7 +30,6 @@
 ## Some of my most popular Open Source projects:
 - FizzBuzz-EVERYTHING - A Github repo with the FizzBuzz program in a whole lotta languages!
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virejdasani&repo=FizzBuzz-EVERYTHING)
-
 - Alexis - Your Personal Robot Butler (Formerly: Jarvis) 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virejdasani&repo=alexis)
 
