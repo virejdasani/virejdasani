@@ -1,26 +1,22 @@
-### Hi there 👋
+# ME:
 
+## Games I've made:
+(Click the last link to go the my website where you can download these)
 
-My Projects:
-
-Game I've made:
-
-Mobile:
+### Mobile:
 
 ELECTRIFIED
 
-
-Mac, Windows, Linux:
+### Mac, Windows, Linux:
 
 ELEVATE
 
-
-Windows, Linux
+### Windows, Linux
 
 PONG
 
 
-Apps I've made:
+## Apps I've made:
 (All of theses are published on the Google PlayStore)
 
 CONVERT TO EVERYTHING
@@ -29,70 +25,45 @@ Bill/Check Splitter
 Voice to text converter
 
 
-Websites:
-8-Bit CS Converter Website
-
-
-OpenSource:
+## OpenSource:
+(On my Github page)
 FizzBuzz-EVERYTHING - A Github repo with the FizzBuzz program in a whole lotta languages!
 Alexis - Your Personal Robot Butler (Formerly: Jarvis) 
 
 
-Programming languages I know:
-In order of when I learnt them:
+## Programming languages I know:
+(In order of when I learnt them)
 
-HTML
-
-CSS
-
-C
-
-Python
-
-Java
-
-C#
-
-JavaScript
-
-Go
+- HTML
+- CSS
+- C
+- Python
+- Java
+- C#
+- JavaScript
+- Go
 
 
-
-Programming frameworks/software/stuff I have worked with:
-Android Studio
-
-Unity
-
-Django
-
-Flask
-
-Electron
-
-React
-
-Blender
-
-Tkinter (for python)
+## Programming frameworks/software/stuff I have worked with:
+- Android Studio
+- Unity
+- Django
+- Flask
+- Electron
+- React
+- Blender
+- Tkinter (for python)
 
 
-
-My developer page on the PlayStore:
+## My developer page on the PlayStore:
 https://play.google.com/store/apps/developer?id=Virej+Dasani
 
 
-
-GitHub:
-https://github.com/virejdasani
-
-
-
-My YouTube channel:
+## My YouTube channel:
 https://www.youtube.com/channel/UCRzS48bskynAxoI38BFypfQ/featured
 
-
-
+# Website
+https://sites.google.com/view/virejdasani/home
 <!--
 **virejdasani/virejdasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
