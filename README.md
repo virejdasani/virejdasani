@@ -75,7 +75,7 @@ https://www.youtube.com/channel/UCRzS48bskynAxoI38BFypfQ/featured
 https://dev.to/virejdasani
 
 ## Instagram
-https://www.instagram.com/_virej_/
+https://www.instagram.com/virejdasani/
 
 # Website
 https://sites.google.com/view/virejdasani/home
