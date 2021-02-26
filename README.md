@@ -75,7 +75,7 @@ https://dev.to/virejdasani
 https://www.instagram.com/virejdasani/
 
 # Website
-https://sites.google.com/view/virejdasani/home
+https://virejdasani.github.io/virej/projects.html
 <!--
 **virejdasani/virejdasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
