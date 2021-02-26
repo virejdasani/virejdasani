@@ -1,7 +1,7 @@
 # My stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=virejdasani&count_private=true&show_icons=true&theme=radical)
 <!--Hiding languages not written by me (They are auto generated in unity or contributed by someone else) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virejdasani&langs_count=6&hide=Mathematica,ShaderLab,GLSL,HLSL&theme=radical&exclude_repo=Planet-Portal,OverheatingChaosGame,FizzBuzz-EVERYTHING,elevateGame)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virejdasani&langs_count=6&hide=Mathematica,ShaderLab,GLSL,HLSL&theme=radical&exclude_repo=Planet-Portal,OverheatingChaosGame,FizzBuzz-EVERYTHING,ELEVATEgame)
 
 
 # About Me:
