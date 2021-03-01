@@ -3,7 +3,6 @@
 <!--Hiding languages not written by me (They are auto generated in unity or contributed by someone else) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virejdasani&langs_count=6&hide=Mathematica,ShaderLab,GLSL,HLSL&theme=radical&exclude_repo=Planet-Portal,OverheatingChaosGame,FizzBuzz-EVERYTHING,ELEVATEgame)
 
-
 # About Me:
 
 ## Games I've made:
@@ -58,6 +57,7 @@
 - Electron
 - React
 - Blender
+- Git/GitHub
 - Tkinter (for python)
 
 
