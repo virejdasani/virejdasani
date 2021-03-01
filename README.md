@@ -61,18 +61,8 @@
 - Tkinter (for python)
 
 
-## My developer page on the PlayStore:
-https://play.google.com/store/apps/developer?id=Virej+Dasani
-
-
-## My YouTube channel:
-https://www.youtube.com/channel/UCRzS48bskynAxoI38BFypfQ/featured
-
-## Dev
-https://dev.to/virejdasani
-
-## Instagram
-https://www.instagram.com/virejdasani/
+# Linktree
+https://linktr.ee/Virejdasani
 
 # Website
 https://virejdasani.github.io/virej/projects.html
