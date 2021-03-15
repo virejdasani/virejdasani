@@ -36,7 +36,7 @@
 
 
 
-## Programming languages I know:
+## Programming/Markup languages I know:
 (In order of when I learnt them)
 
 - HTML
@@ -60,11 +60,7 @@
 - Git/GitHub
 - Tkinter (for python)
 
-
-# Linktree
-https://linktr.ee/Virejdasani
-
-# Website
+# My Website
 https://virejdasani.github.io/virej/projects.html
 <!--
 **virejdasani/virejdasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
