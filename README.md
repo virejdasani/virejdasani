@@ -1,5 +1,4 @@
 # www.virej.ml
-![](https://komarev.com/ghpvc/?username=virejdasani)
 
 # My stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=virejdasani&count_private=true&show_icons=true&theme=radical)
