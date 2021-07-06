@@ -1,67 +1,15 @@
-# www.virej.ml
+👋 , I am Virej Dasani. A 16-year-old, student & self-taught Software Developer from India. I wrote my first line of code when I was 14 and since then, I have developed and designed, CLI, GUI apps & games, websites, browser extensions, contributed to numerous open-source projects, and more. I have built projects for operating systems including MacOS, Linux, Windows, Android, and IOS. I have worked with languages including, Python, Java, JavaScript, HTML, CSS, C, C#, Swift, Golang, Lua, and a few more! Almost all of my projects are open-source and you can check them out on my website: www.virej.ml
+
+
+## Some of my most popular projects:
+- Responsivize - A must have tool to develop responsive websites!
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virejdasani&repo=Responsivize)
+- Geniemoji - The Emoji Genie 🧞‍♂️
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virejdasani&repo=Geniemoji)
+
 
 # My stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=virejdasani&count_private=true&show_icons=true&theme=radical&layout=compact)
 <!--Hiding languages not written by me (They are auto generated in unity or contributed by someone else) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virejdasani&layout=compact&langs_count=100&hide=Mathematica,ShaderLab,GLSL,HLSL&theme=radical&exclude_repo=Planet-Portal,OverheatingChaosGame,FizzBuzz-EVERYTHING,ELEVATEgame,Eltusa1,Eltusa2,Eltusa3,Eltusa,AR-RR,ELECTRIFIED)                   
 [![virej's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=virejdasani)](https://github.com/anuraghazra/github-readme-stats)
-
-# About Me:
-
-## Games I've made:
-(Click the last link to go the my website where you can download these)
-
-### Mobile:📱
-(Published on the Google PlayStore)
-- ELECTRIFIED
-
-### Mac, Windows, Linux:💻
-- ELEVATE
-
-### Windows, Linux:💻
-- PONG
-
-
-## Apps I've made:📱
-(All of theses are published on the Google PlayStore)
-
-- CONVERT TO EVERYTHING
-- Virtual Dice Roller
-- Bill/Check Splitter
-- Voice to text converter
-
-
-## Some of my most popular Open Source projects:
-- FizzBuzz-EVERYTHING - A Github repo with the FizzBuzz program in a whole lotta languages!
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virejdasani&repo=FizzBuzz-EVERYTHING)
-- Alexis - Your Personal Robot Butler (Formerly: Jarvis) 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virejdasani&repo=alexis)
-
-
-
-## Programming/Markup languages I know:
-(In order of when I learnt them)
-
-- HTML
-- CSS
-- C
-- Python
-- Java
-- C#
-- JavaScript
-- Go
-
-
-## Programming frameworks/software/stuff I have worked with:
-- Android Studio
-- Unity
-- Django
-- Flask
-- Electron
-- React
-- Blender
-- Git/GitHub
-- Tkinter (for python)
-
-# My Website
-www.virej.ml
