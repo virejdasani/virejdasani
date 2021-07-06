@@ -2,10 +2,10 @@
 
 
 ## Some of my most popular projects:
-- Responsivize - A must have tool to develop responsive websites!
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virejdasani&repo=Responsivize)
-- Geniemoji - The Emoji Genie 🧞‍♂️
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virejdasani&repo=Geniemoji)
+- Responsivize - A must have tool to develop responsive websites!                     
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virejdasani&repo=Responsivize)                 
+- Geniemoji - The Emoji Genie 🧞‍♂️                   
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virejdasani&repo=Geniemoji)                 
 
 
 # My stats
