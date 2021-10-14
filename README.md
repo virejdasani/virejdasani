@@ -25,7 +25,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=virejdasani&count_private=true&show_icons=true&theme=radical&layout=compact" /> </p>
 
 <!--Hiding languages not written by me (They are auto generated in unity or contributed by someone else) -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virejdasani&layout=compact&langs_count=100&hide=Mathematica,ShaderLab,GLSL,HLSL&theme=radical&exclude_repo=Planet-Portal,OverheatingChaosGame,FizzBuzz-EVERYTHING,ELEVATEgame,Eltusa1,Eltusa2,Eltusa3,Eltusa,AR-RR,ELECTRIFIED)" /> </p>
+<!--Hiding languages not written by me (They are auto generated in unity or contributed by someone else) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virejdasani&layout=compact&langs_count=100&hide=Mathematica,ShaderLab,GLSL,HLSL&theme=radical&exclude_repo=Planet-Portal,OverheatingChaosGame,FizzBuzz-EVERYTHING,ELEVATEgame,Eltusa1,Eltusa2,Eltusa3,Eltusa,AR-RR,ELECTRIFIED)  
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=virejdasani" /> </p>
 
