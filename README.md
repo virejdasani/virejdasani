@@ -1,5 +1,5 @@
 # 👋 , I am [Virej Dasani](https://virejdasani.github.io/).
-A 16-year-old, student & self-taught Software Developer from India. I wrote my first line of code when I was 14 and since then, I have developed and designed, CLI, GUI apps & games, websites, browser extensions, contributed to numerous open-source projects, and more. I have built projects for operating systems including MacOS, Linux, Windows, Android, and IOS. I have worked with languages including, Python, Java, JavaScript, HTML, CSS, C, C#, Swift, Golang, Lua, and a few more! Almost all of my projects are open-source and you can check them out on my website: www.virej.ml
+A 16-year-old, student & self-taught Software Developer from India. I wrote my first line of code when I was 15 and since then, I have developed and designed, CLI, GUI apps & games, websites, browser extensions, contributed to numerous open-source projects, and more. I have built projects for operating systems including MacOS, Linux, Windows, Android, and IOS. I have worked with languages including, Python, Java, JavaScript, HTML, CSS, C, C#, Swift, Golang, Lua, and a few more! Almost all of my projects are open-source and you can check them out on my website: www.virej.ml
 
 
 # Some of my popular projects:
