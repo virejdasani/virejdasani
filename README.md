@@ -1,4 +1,4 @@
-[![Virej Dasani, I'm a 16-year-old student and self-taught software developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%2016-year-old%20student%20and%20self-taught%20software%20developer&title=Virej%20Dasani)](https://pimp-my-readme.webapp.io)
+[![Virej Dasani, I'm a 16-year-old student and self-taught software developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%2016-year-old%20student%20and%20self-taught%20software%20developer&title=Virej%20Dasani)](https://virejdasani.github.io/)
 
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/virej-dasani-b64470209/)
 [![YouTube](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=YouTube)](https://www.youtube.com/channel/UCRzS48bskynAxoI38BFypfQ)
