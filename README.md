@@ -1,4 +1,4 @@
-[Virej Dasani](https://virejdasani.github.io/)
+# [Virej Dasani](https://virejdasani.github.io/)
  I'm a 17-year-old student and self-taught software developer
 
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/virej-dasani-b64470209/)
