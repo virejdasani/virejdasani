@@ -1,10 +1,10 @@
 # [Virej Dasani](https://virejdasani.github.io/)
  I'm a 17-year-old student and self-taught software developer
 
-<a src="https://twitter.com/virejdasani"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png" alt="drawing" width="50"/></a>
-<a src="https://instagram.com/virejdasani"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png" alt="drawing" width="50"/></a>
-<a src="https://www.youtube.com/channel/UCRzS48bskynAxoI38BFypfQ"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Youtube.png" alt="drawing" width="50"/></a>
-<a src="https://www.linkedin.com/in/virej-dasani-b64470209/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" alt="drawing" width="50"/></a>
+<a href="https://twitter.com/virejdasani"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png" alt="drawing" width="50"/></a>
+<a href="https://instagram.com/virejdasani"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png" alt="drawing" width="50"/></a>
+<a href="https://www.youtube.com/channel/UCRzS48bskynAxoI38BFypfQ"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Youtube.png" alt="drawing" width="50"/></a>
+<a href="https://www.linkedin.com/in/virej-dasani-b64470209/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" alt="drawing" width="50"/></a>
 
 
 <!--
