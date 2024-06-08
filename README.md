@@ -1,5 +1,5 @@
 # [Virej Dasani](https://youtube.com/virej)
-I code apps, games, websites then make videos about it!
+I code stuff then make videos about it!
 
 <a href="https://twitter.com/virejdasani"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png" alt="drawing" width="50"/></a>
 <a href="https://instagram.com/virejdasani"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png" alt="drawing" width="50"/></a>
